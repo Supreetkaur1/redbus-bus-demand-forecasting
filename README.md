@@ -73,6 +73,7 @@ Install dependencies (if working locally):
 
 ```bash
 pip install pandas numpy xgboost scikit-learn matplotlib seaborn
+```
 👩‍💻 Author
 Supreet Kaur
 
