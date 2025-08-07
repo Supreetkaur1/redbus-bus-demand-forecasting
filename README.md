@@ -22,8 +22,7 @@ The aim is to assist in **demand planning and inventory optimization** by accura
 - **Target Variable**: Total seats booked 15 days before journey date
 
 ---
-
-## 📁 Project Structure
+```## 📁 Project Structure
 
 redbus-bus-demand-forecasting/
 │
@@ -37,7 +36,7 @@ redbus-bus-demand-forecasting/
 ├── output/                   # Output directory
 │   └── submission.csv        # Final predictions
 
-
+```
 ---
 
 ## 📊 Input Features (examples)
