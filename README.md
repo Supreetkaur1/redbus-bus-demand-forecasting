@@ -38,10 +38,6 @@ redbus-bus-demand-forecasting/
 │   └── submission.csv        # Final predictions
 
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 📊 Input Features (examples)
