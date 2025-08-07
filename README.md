@@ -25,14 +25,18 @@ The aim is to assist in **demand planning and inventory optimization** by accura
 
 ## 📁 Project Structure
 
-redbus-demand-forecasting/
-├── redbus_model.ipynb # Main Jupyter notebook
-├── README.md # This file
-├── input/
-│ ├── train.csv # Historical booking/search data
-│ └── test.csv # Test data for prediction
-└── output/
-└── submission.csv # Final predictions
+redbus-bus-demand-forecasting/
+│
+├── redbus_model.ipynb        # Main Jupyter Notebook
+├── README.md                 # Project documentation
+│
+├── input/                    # Input data
+│   ├── train.csv             # Historical booking/search data
+│   └── test.csv              # Test data for prediction
+│
+├── output/                   # Output directory
+│   └── submission.csv        # Final predictions
+
 
 yaml
 Copy
