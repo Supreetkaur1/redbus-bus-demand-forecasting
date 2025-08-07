@@ -61,7 +61,8 @@ redbus-bus-demand-forecasting/
 - Developed using **Google Colab**
 - You may need to upload input files manually or mount Google Drive
 - Data files are not included due to size/privacy — replace with your own
-
+- The transaction.csv provided here is not the full size, this is because of file size restrictions imposed by github
+- The original transactions.csv file can be downloaded from here https://www.analyticsvidhya.com/datahack/contest/redbus-data-decode-hackathon-2025/ under the problem statement section
 ---
 
 ## 🔧 Requirements
